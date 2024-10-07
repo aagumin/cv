@@ -1,0 +1,31 @@
+[personal]
+first_name = "Arsen"
+last_name = "Gumin"
+address = "Russia, Moscow"
+telephone = "+7 (999) 205-20-25"
+email = "gumin@live.ru"
+linkedin = "linkedin.com/in/pass"
+github = "github.com/aagumin"
+profile_image = "portrait.png"
+language = "en"
+
+[layout]
+fill_color = "#f4f1eb"
+paper_size = "a4"
+accent_color = "#d4d2cc"
+
+[layout.text]
+font = "Hanken Grotesk"
+size = "10pt"
+
+[layout.text.color]
+light = "#ededef"
+medium = "#78787e"
+dark = "#3c3c42"
+
+
+[language.en]
+subtitle = "Software Engineer with a knack for human-friendly AI solutions"
+
+[language.ru]
+subtitle = "Ingeniero de software con un talento para soluciones de IA amigables para humanos"
